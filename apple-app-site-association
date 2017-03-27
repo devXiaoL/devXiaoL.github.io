@@ -3,11 +3,11 @@
           "apps": [],
           "details": [
               {
-                  "appID": "TEAMID.Bundle Id",
-                  "paths": [ "/wwdc/news/", "/videos/wwdc/2015/*" ]
+                  "appID": "N3XKR4C366.com.xiaoL.StudyDemo”,
+                  "paths": [ “/Universal Links test” ]
               },
               {
-                  "appID": "TEAMID.BundleID2",
+                  "appID": "N3XKR4C366.com.xiaoL.StudyDemo”,
                   "paths": [ "*" ]
               }
           ]
