@@ -4,10 +4,6 @@
           "details": [
               {
                   "appID": "N3XKR4C366.com.xiaoL.StudyDemo”,
-                  "paths": [ “/UniversaLinkstest” ]
-              },
-              {
-                  "appID": "N3XKR4C366.com.xiaoL.StudyDemo”,
                   "paths": [ "*" ]
               }
           ]
