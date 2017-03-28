@@ -24,6 +24,8 @@ blog_button:
 nav:
     - {title: 项目, description: 我的项目, url: 'http://project.onevcat.com'}
     - {title: 跳转到app, description: 跳转到app, url: 'https://13225573109.github.io/wwdc/news/'}
+    - {title: 项目, description: 我的项目, url: 'http://project.onevcat.com'}
+    - {title: studyDemo, description: 跳转到app, url: 'https://devxiaol.github.io/wwdc/news/'}
 
 # Pagination
 gems: [jekyll-paginate]
