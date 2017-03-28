@@ -1,8 +1,8 @@
 # Basic
 title: 狩猎者
 subtitle: 欲师者，温故而知新；欲达者，吐故而纳新。
-welcome_message: 这是记录平日学习遇到的各种问题的地方，欢迎您的到访！
-description: Vno Jekyll is a port of my Ghost theme vno.
+welcome_message: 欢迎您的到访！
+description: 在这里记录下平时开发遇到的问题，方便日后查阅
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
