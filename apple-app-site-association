@@ -1,7 +1,6 @@
 {
       "applinks": {
-          "apps": ["842PH7G7DK.com.study.Demo",
-                   "842PH7G7DK.com.lanbao.xinjiewuye11.animation"],
+          "apps": [],
           "details": [
               {
                   "appID": "842PH7G7DK.com.study.Demo",
@@ -11,7 +10,6 @@
                   "appID":"842PH7G7DK.com.lanbao.xinjiewuye11.animation",
                   "paths":["/lb/testapp/"]
               }
-            
           ]
       }
  }
